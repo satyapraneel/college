@@ -1,0 +1,91 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body{
+	background: #F5F5F5;
+}
+.left{
+	float: left;
+}
+.right{
+	float:right;
+}
+.room-list {
+    float: left;
+}
+.clear {
+    clear: both;
+}
+.header{
+	min-height: 70px !important;
+	margin-bottom: 0px;
+}
+.mt20{
+margin-top: 20px;
+}
+.navbar-brand > img {
+    padding-left: 10px;
+    width: 53px;
+}
+.nav.navbar-nav.navbar-right a {
+    color: #202020;
+    font-size: 16px;
+    font-weight: bold;
+}
+.nav.navbar-nav.navbar-right a:hover {
+    color: #bca474;
+}
+.top-nav-wrapper{
+	background: #000;
+}
+#top-nav-id li {
+    float: left;
+    list-style: outside none none;
+    padding: 5px;
+}
+
+
+.top-bar-contact li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.slideMenu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    z-index: 100;
+}
+#top-nav-id a {
+	color: #fff;
+    font-size: 12px;
+    padding-left: 4px;
+    text-decoration: none !important;
+    text-transform: uppercase;
+}
+.top-nav.slideMenu ul li a {
+    padding: 4px 15px;
+}
+#top-nav-id li:hover {
+    background: #404040 none repeat scroll 0 0;
+}
+.check{
+    padding:30px 10px; 
+}
+.drop{
+    padding:30px 10px; 
+}
+.check span{
+    padding-right: 20px;
+}
+.check span input{
+    padding-right: 5px;
+}
+.collge-list{
+    margin-top: 30px;
+}
+label {
+    padding-right: 15px;
+}

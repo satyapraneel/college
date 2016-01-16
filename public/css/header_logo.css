@@ -1,0 +1,41 @@
+
+
+
+.header-nav .nav.navbar-nav.navbar-right {
+    margin-top: 40px;
+}
+.college-desc{
+    background-color: #ffffff;
+    border: 15px solid #ccc;
+}
+#checkboxForSector label {
+    padding-left: 20px;
+}
+.mt20{
+    margin-top: 20px;
+}
+.header-nav{
+    background: #fff;
+    height: 130px;
+}
+.nav.navbar-nav.navbar-right a {
+    font-size: 20px;
+    text-shadow: none;
+}
+.nav.navbar-nav.navbar-right a:hover {
+    color: #000;
+}
+.col-desc-wrapper {
+    background: #f9f9f9 none repeat scroll 0 0;
+    height: 250px;
+}
+.col-desc > p {
+    padding: 0 30px;
+}
+.map {
+    margin: 50px 0 30px;
+}
+.col-desc-wrapper_1 {
+    background: #f9f9f9 none repeat scroll 0 0;
+    height: 380px;
+}
