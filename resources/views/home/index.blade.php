@@ -8,4 +8,5 @@
       <!--  include('home.modern') -->
         @include('layout._footer-main')
     </div>
+
 @endsection
